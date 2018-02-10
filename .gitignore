@@ -1,2 +1,3 @@
 node_modules/
+# Ignore Visual Studio folder
 .vscode/
