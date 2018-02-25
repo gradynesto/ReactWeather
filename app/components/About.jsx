@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
     return (
         <div>
-            <h1 className="text-center">About</h1>
+            <h1 className="text-center page-title">About</h1>
             <p>This weather application I built on React. I build this for Udemy class, <i><a href="https://www.udemy.com/the-complete-react-web-app-developer-course" target="_blank">The Complete React Web App Developer Course</a></i>/.</p>
             <p>
                 Here are some tools I used:
